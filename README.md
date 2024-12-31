@@ -6,7 +6,10 @@
 </div>
 <div align="center">  
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemfelixotadoy&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=html,css,scss,pug,json,jsx,other,java&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
-
+<div align="center">  
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gemfelixotadoy&layout=compact&langs_count=8&theme=onedark&hide_border=true&hide=html,css,scss,pug,json,jsx,other,java&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+   <img width="450" src="https://github-readme-stats.vercel.app/api/wakatime?username=gemfelixotadoy&layout=compact&langs_count=10&theme=onedark&hide_border=true&hide=html,css,scss,pug,json,jsx,other,groovy,java&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+ </div>
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/gemfelixotadoy/gemfelixotadoy/blob/output/github-snake-dark.svg">
 </div>
