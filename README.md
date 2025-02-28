@@ -1,3 +1,5 @@
+<!-- remove this when trying to function this one 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gemfelixotadoy&label=Profile%20views&color=0e75b6&style=flat" alt="gemfelixotadoy" /> </p>
 
 <div align="center">
@@ -11,6 +13,7 @@
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/gemfelixotadoy/gemfelixotadoy/blob/output/github-snake-dark.svg">
 </div>
+-->
 
 <!-- c%23 -->
 
