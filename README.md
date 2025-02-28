@@ -1,4 +1,3 @@
-<!-- // Remove this to show your profile again! :))
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gemfelixotadoy&label=Profile%20views&color=0e75b6&style=flat" alt="gemfelixotadoy" /> </p>
 
 <div align="center">
